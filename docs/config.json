@@ -1,0 +1,6 @@
+{
+  "catagory": ["Trialos", "前端组件"],
+  "name": "图片标注组件",
+  "description": "用于 ocr 图片标注",
+  "authors": ["彭胜洁"]
+}
